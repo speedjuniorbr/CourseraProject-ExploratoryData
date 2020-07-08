@@ -1,9 +1,10 @@
 #==================================================================================
 # Course: Exploratory Data Analysis
 # Title: Project 2 - PM2.5 Emissions in Baltimore City for Motor Vehicle Emissions
+#        comparing with Los Angeles
 # Subject: Exploratory Data Analysis from PM2.5
 # Name: Expedito P. P. Jr
-# File: plot5.R
+# File: plot6.R
 #================================================================================== 
 #Load Library
 library(ggplot2)
